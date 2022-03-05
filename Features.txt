@@ -1,0 +1,10 @@
+1. Functional Decomposition
+2. Looping with Repetition Control Structures
+3. Branching with Selection Control Structures
+4. File I/O.
+5. Uses multiple classes.
+6. One dimensional array.
+
+Also implemented
+Class Design using Access Modifiers
+Variable Tracking and Testing
